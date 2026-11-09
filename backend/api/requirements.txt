@@ -1,0 +1,12 @@
+Flask
+flask-cors
+mysql-connector-python
+Pillow
+numpy
+dlib-bin
+setuptools<81
+face_recognition_models
+python-dotenv
+
+# Install after requirements:
+# python -m pip install face-recognition --no-deps
